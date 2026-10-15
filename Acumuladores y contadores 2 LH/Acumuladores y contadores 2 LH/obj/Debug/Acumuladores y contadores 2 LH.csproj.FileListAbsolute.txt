@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Acumuladores y contadores 2 LH\Acumuladores y contadores 2 LH\bin\Debug\Acumuladores y contadores 2 LH.exe.config
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Acumuladores y contadores 2 LH\Acumuladores y contadores 2 LH\bin\Debug\Acumuladores y contadores 2 LH.exe
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Acumuladores y contadores 2 LH\Acumuladores y contadores 2 LH\bin\Debug\Acumuladores y contadores 2 LH.pdb
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Acumuladores y contadores 2 LH\Acumuladores y contadores 2 LH\obj\Debug\Acumuladores y contadores 2 LH.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Acumuladores y contadores 2 LH\Acumuladores y contadores 2 LH\obj\Debug\Acumuladores y contadores 2 LH.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Acumuladores y contadores 2 LH\Acumuladores y contadores 2 LH\obj\Debug\Acumuladores y contadores 2 LH.exe
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Acumuladores y contadores 2 LH\Acumuladores y contadores 2 LH\obj\Debug\Acumuladores y contadores 2 LH.pdb
