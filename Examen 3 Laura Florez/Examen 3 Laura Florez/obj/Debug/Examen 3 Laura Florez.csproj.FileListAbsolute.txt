@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Examen 3 Laura Florez\Examen 3 Laura Florez\bin\Debug\Examen 3 Laura Florez.exe.config
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Examen 3 Laura Florez\Examen 3 Laura Florez\bin\Debug\Examen 3 Laura Florez.exe
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Examen 3 Laura Florez\Examen 3 Laura Florez\bin\Debug\Examen 3 Laura Florez.pdb
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Examen 3 Laura Florez\Examen 3 Laura Florez\obj\Debug\Examen 3 Laura Florez.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Examen 3 Laura Florez\Examen 3 Laura Florez\obj\Debug\Examen 3 Laura Florez.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Examen 3 Laura Florez\Examen 3 Laura Florez\obj\Debug\Examen 3 Laura Florez.exe
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Examen 3 Laura Florez\Examen 3 Laura Florez\obj\Debug\Examen 3 Laura Florez.pdb
