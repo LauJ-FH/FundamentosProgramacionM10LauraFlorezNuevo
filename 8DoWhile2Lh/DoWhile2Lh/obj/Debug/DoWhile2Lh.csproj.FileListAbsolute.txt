@@ -1,0 +1,2 @@
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\DoWhile2Lh\DoWhile2Lh\obj\Debug\DoWhile2Lh.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\DoWhile2Lh\DoWhile2Lh\obj\Debug\DoWhile2Lh.csproj.CoreCompileInputs.cache
