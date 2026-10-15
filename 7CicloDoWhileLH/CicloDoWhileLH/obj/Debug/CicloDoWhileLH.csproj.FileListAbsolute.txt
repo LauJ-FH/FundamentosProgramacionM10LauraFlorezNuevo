@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\CicloDoWhileLH\CicloDoWhileLH\obj\Debug\CicloDoWhileLH.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\CicloDoWhileLH\CicloDoWhileLH\obj\Debug\CicloDoWhileLH.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\CicloDoWhileLH\CicloDoWhileLH\bin\Debug\CicloDoWhileLH.exe.config
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\CicloDoWhileLH\CicloDoWhileLH\bin\Debug\CicloDoWhileLH.exe
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\CicloDoWhileLH\CicloDoWhileLH\bin\Debug\CicloDoWhileLH.pdb
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\CicloDoWhileLH\CicloDoWhileLH\obj\Debug\CicloDoWhileLH.exe
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\CicloDoWhileLH\CicloDoWhileLH\obj\Debug\CicloDoWhileLH.pdb
