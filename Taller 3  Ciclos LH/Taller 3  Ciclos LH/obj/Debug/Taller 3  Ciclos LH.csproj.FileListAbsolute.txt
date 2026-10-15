@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Taller 3  Ciclos LH\Taller 3  Ciclos LH\obj\Debug\Taller 3  Ciclos LH.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Taller 3  Ciclos LH\Taller 3  Ciclos LH\obj\Debug\Taller 3  Ciclos LH.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Taller 3  Ciclos LH\Taller 3  Ciclos LH\bin\Debug\Taller 3  Ciclos LH.exe.config
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Taller 3  Ciclos LH\Taller 3  Ciclos LH\bin\Debug\Taller 3  Ciclos LH.exe
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Taller 3  Ciclos LH\Taller 3  Ciclos LH\bin\Debug\Taller 3  Ciclos LH.pdb
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Taller 3  Ciclos LH\Taller 3  Ciclos LH\obj\Debug\Taller 3  Ciclos LH.exe
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Taller 3  Ciclos LH\Taller 3  Ciclos LH\obj\Debug\Taller 3  Ciclos LH.pdb
