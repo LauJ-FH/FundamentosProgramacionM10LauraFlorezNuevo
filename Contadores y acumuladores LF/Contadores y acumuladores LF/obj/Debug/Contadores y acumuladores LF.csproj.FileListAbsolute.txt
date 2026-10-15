@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Contadores y acumuladores LF\Contadores y acumuladores LF\bin\Debug\Contadores y acumuladores LF.exe.config
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Contadores y acumuladores LF\Contadores y acumuladores LF\bin\Debug\Contadores y acumuladores LF.exe
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Contadores y acumuladores LF\Contadores y acumuladores LF\bin\Debug\Contadores y acumuladores LF.pdb
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Contadores y acumuladores LF\Contadores y acumuladores LF\obj\Debug\Contadores y acumuladores LF.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Contadores y acumuladores LF\Contadores y acumuladores LF\obj\Debug\Contadores y acumuladores LF.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Contadores y acumuladores LF\Contadores y acumuladores LF\obj\Debug\Contadores y acumuladores LF.exe
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Contadores y acumuladores LF\Contadores y acumuladores LF\obj\Debug\Contadores y acumuladores LF.pdb
