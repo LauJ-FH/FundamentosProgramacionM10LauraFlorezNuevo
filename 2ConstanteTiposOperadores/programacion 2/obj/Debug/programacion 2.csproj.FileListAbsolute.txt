@@ -1,0 +1,2 @@
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\programacion 2\programacion 2\obj\Debug\programacion 2.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\programacion 2\programacion 2\obj\Debug\programacion 2.csproj.CoreCompileInputs.cache
