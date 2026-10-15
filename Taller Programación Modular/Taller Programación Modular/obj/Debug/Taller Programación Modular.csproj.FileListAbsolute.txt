@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Taller Programación Modular\Taller Programación Modular\obj\Debug\Taller Programación Modular.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Taller Programación Modular\Taller Programación Modular\obj\Debug\Taller Programación Modular.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Taller Programación Modular\Taller Programación Modular\bin\Debug\Taller Programación Modular.exe.config
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Taller Programación Modular\Taller Programación Modular\bin\Debug\Taller Programación Modular.exe
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Taller Programación Modular\Taller Programación Modular\bin\Debug\Taller Programación Modular.pdb
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Taller Programación Modular\Taller Programación Modular\obj\Debug\Taller Programación Modular.exe
+C:\Users\B09S104est\Documents\LFprogramacion\FundamentosProgramacionM10LauraFlorez\Taller Programación Modular\Taller Programación Modular\obj\Debug\Taller Programación Modular.pdb
